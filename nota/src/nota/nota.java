@@ -3,6 +3,8 @@ package nota;
 import java.util.Scanner;
 
 /**
+ * @author Jose Miguel Lopez Gomez
+ * @version 1.0
  * La clase Notas es un programa que clasifica una calificación numérica
  * ingresada por el usuario y la convierte en una cadena que representa su
  * valoración, utilizando el método público cali.
